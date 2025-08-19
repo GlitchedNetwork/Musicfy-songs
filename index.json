@@ -4,11 +4,11 @@
   "songs": [
     {
       "type":"song",
-      "name":"Supersonic (My existence)",
-      "author": "Skrillex, Nosia, josh pan, Dylan Brady",
+      "name":"Treat Her Like My Bike",
+      "author": "Rose",
       "speed": 1,
-      "file":"https://github.com/knijn/musicify-songs/raw/main/skrillex/skrillex-supersonic.dfpwm",
-      "time": 166
+      "file":"https://github.com/GlitchedNetwork/Musicfy-songs/blob/main/Treat%20Her%20Like%20My%20Bike.dfpwm",
+      "time": 314
     },
     {
       "type":"song",
